@@ -1,5 +1,6 @@
 # RoombaExercise
-## Introduced maven support, ensure you have maven installed by typing mvn --version in the terminal.
+## Introduced maven support.
+### Please ensure that you have maven installed by typing mvn --version in the terminal.
 
 ## Install & run
 1. Clone repository with: git clone https://github.com/dlerko/RoombaExercise.git
